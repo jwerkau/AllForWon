@@ -1,5 +1,4 @@
 <?php
-//Test
 //Global variables.
 global $login_error;
 global $register_error;
